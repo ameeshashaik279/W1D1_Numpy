@@ -28,6 +28,5 @@ y = np.array([[5, 6], [7, 8]])
 print("Matrix Multiplication:\n", x @ y)
 
 # Statistics
-print("Mean:", np.mean(a))
-print("Standard Deviation:", np.std(a))
+
 # NumPy fundamentals practical completed
