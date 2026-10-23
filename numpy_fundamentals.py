@@ -30,3 +30,4 @@ print("Matrix Multiplication:\n", x @ y)
 # Statistics
 print("Mean:", np.mean(a))
 print("Standard Deviation:", np.std(a))
+# NumPy fundamentals practical completed
