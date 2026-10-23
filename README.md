@@ -43,4 +43,6 @@ http://127.0.0.1:5000
 \## Deliverable
 
 Screenshot of the running MLflow dashboard.
+## Output Screenshot
 
+![Running Application](assets/run-app.png)
