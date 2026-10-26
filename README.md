@@ -62,3 +62,44 @@ Screenshot of the running MLflow dashboard.
 - `.gitignore` — Files excluded from Git tracking.
 - `README.md` — Project setup and documentation.
 
+## W1D3: Data Flow
+
+### Input
+The program creates sample 1D, 2D, and 3D NumPy arrays in the Python script.
+
+### Processing
+- Creates NumPy arrays.
+- Displays array shapes.
+- Performs vectorized multiplication.
+- Demonstrates broadcasting.
+- Performs matrix multiplication.
+
+### Output
+The program prints arrays, their shapes, and calculation results in the terminal.
+
+### Data Flow Diagram
+
+```text
+NumPy Sample Arrays
+        |
+        v
+Array Creation
+        |
+        v
+Shape Inspection
+        |
+        v
+Vectorized Operations
+        |
+        v
+Broadcasting and Matrix Multiplication
+        |
+        v
+Results Printed in Terminal
+```
+
+### ML Experiment Lifecycle
+- Tracking: Records experiment parameters and metrics.
+- Model Registry: Organizes and versions trained models.
+- Artifact Storage: Stores experiment outputs, models, and related files.
+
