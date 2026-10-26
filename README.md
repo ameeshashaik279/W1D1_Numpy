@@ -102,6 +102,29 @@ Results Printed in Terminal
 - Tracking: Records experiment parameters and metrics.
 - Model Registry: Organizes and versions trained models.
 - Artifact Storage: Stores experiment outputs, models, and related files.
+## W1D4: Exploratory Data Analysis (EDA)
+
+### Dataset Inspection
+- Loaded the Iris dataset containing 150 rows and 5 columns.
+- Inspected the dataset structure, column data types, and first five rows.
+- Used descriptive statistics to understand numeric feature distributions.
+
+### Missing Values
+- Missing values should be checked using `df.isnull().sum()`.
+- Verify the missing-value count before proceeding with analysis.
+
+### Correlation Analysis
+- Calculated correlations between numeric features using `df.corr()`.
+- Petal measurements are expected to show a strong relationship in the Iris dataset.
+
+### EDA Observations
+1. The dataset contains 150 observations and 4 numeric input features.
+2. Sepal and petal measurements vary across the dataset.
+3. Petal length and petal width are strongly positively correlated.
+4. Correlation analysis helps identify related features.
+5. Descriptive statistics help identify unusual minimum and maximum values.
+
+
 
 ## W1D5: Data Visualisation and MLflow Experiment
 
