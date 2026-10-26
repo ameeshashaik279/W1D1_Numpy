@@ -103,3 +103,25 @@ Results Printed in Terminal
 - Model Registry: Organizes and versions trained models.
 - Artifact Storage: Stores experiment outputs, models, and related files.
 
+## W1D5: Data Visualisation and MLflow Experiment
+
+### Dataset
+- Dataset: Iris
+- Rows: 150
+- Columns: 5
+
+### Visualisation
+- Created a histogram of sepal length using Matplotlib.
+- Saved the chart as `results/week1_visualization.png`.
+
+### MLflow Experiment
+- Experiment name: `Default`
+- Run name: `Iris_Week1_Analysis`
+- Parameters logged: dataset, rows, features
+- Metric logged: mean_sepal_length
+
+### Results
+The Iris dataset was loaded using pandas and analysed successfully.
+A sepal length distribution chart was generated and saved.
+The experiment parameters and mean sepal length metric were logged in MLflow.
+
