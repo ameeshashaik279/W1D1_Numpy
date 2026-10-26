@@ -17,5 +17,8 @@ print(df.mean())
 print("\nStandard Deviation:")
 print(df.std())
 
+# Statistics
+
+# NumPy fundamentals practical completed
 print("\nCorrelation:")
 print(df.corr())
