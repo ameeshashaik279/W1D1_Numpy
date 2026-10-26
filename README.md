@@ -46,3 +46,19 @@ Screenshot of the running MLflow dashboard.
 ## Output Screenshot
 
 ![Running Application](assets/run-app.png)
+
+## W1D2: Project Folder Structure
+
+### Directories
+- `assets/` — Stores screenshots and supporting project files.
+- `venv/` — Python virtual environment.
+- `ai-ml-internship/` — Project workspace folder.
+
+### Key Files
+- `numpy_fundamentals.py` — NumPy practice code.
+- `ML-1.md` — Machine learning notes/documentation.
+- `mlflow.db` — MLflow tracking database.
+- `mlflow-screenshot.png` — MLflow screenshot.
+- `.gitignore` — Files excluded from Git tracking.
+- `README.md` — Project setup and documentation.
+
