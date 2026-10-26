@@ -124,4 +124,16 @@ Results Printed in Terminal
 The Iris dataset was loaded using pandas and analysed successfully.
 A sepal length distribution chart was generated and saved.
 The experiment parameters and mean sepal length metric were logged in MLflow.
+## W1D5: Self-Review Checklist
+
+- [x] Loaded the Iris dataset using Python.
+- [x] Logged the experiment in MLflow.
+- [x] Verified experiment metrics and parameters.
+- [x] Generated a data visualization output.
+- [x] Saved output evidence in the project.
+- [x] Updated project documentation.
+- [x] Committed and pushed project changes to GitHub.
+- [x] Merged the Week 1 pull request.
+- [ ] Completed CIA mentor code review interactions.
+- [ ] Verified final Week 1 completion status in the LMS.
 
