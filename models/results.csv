@@ -1,0 +1,4 @@
+model_name,metric_name,score,date
+LogisticRegression,accuracy,0.9333333333333332,2026-10-30
+RandomForestClassifier,accuracy,0.9,2026-10-30
+DecisionTreeClassifier,accuracy,0.9333333333333333,2026-10-30
