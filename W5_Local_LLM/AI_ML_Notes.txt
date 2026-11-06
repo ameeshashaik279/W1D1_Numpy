@@ -1,0 +1,15 @@
+# Artificial Intelligence and Machine Learning
+
+Artificial Intelligence enables computers to perform tasks that normally require human intelligence.
+
+Machine Learning is a subset of Artificial Intelligence. It allows computers to learn patterns from data.
+
+Supervised Learning uses labelled data for training.
+
+Unsupervised Learning discovers hidden patterns in unlabelled data.
+
+Python is widely used in Artificial Intelligence and Machine Learning.
+
+ChromaDB is a vector database used to store and retrieve document embeddings.
+
+Ollama allows users to run large language models locally.
