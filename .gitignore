@@ -7,3 +7,4 @@ venv_old/
 mlartifacts/
 __pycache__/
 *.pyc
+W5_Local_LLM/chroma_db/
