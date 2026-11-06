@@ -1,0 +1,9 @@
+name: iris_mlflow_project
+
+entry_points:
+  main:
+    parameters:
+      model_path:
+        type: str
+        default: "models/tuned_model.pkl"
+    command: "python models/mlflow_training.py --model-path {model_path}"
