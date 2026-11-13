@@ -2,3 +2,9 @@ venv/
 __pycache__/
 mlflow.db
 ML-1.md
+venv/
+venv_old/
+mlartifacts/
+__pycache__/
+*.pyc
+W5_Local_LLM/chroma_db/

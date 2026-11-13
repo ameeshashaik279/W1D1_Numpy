@@ -1,0 +1,14 @@
+Artificial Intelligence and Machine Learning
+
+Machine Learning is a branch of Artificial Intelligence.
+It allows computers to learn patterns from data.
+
+Deep Learning uses neural networks with multiple layers.
+Python is widely used for Machine Learning applications.
+
+Natural Language Processing helps computers understand human language.
+Data Science uses statistics and programming to extract insights.
+
+Retrieval Augmented Generation (RAG) combines information retrieval with language models.
+ChromaDB stores vector embeddings and supports semantic similarity search.
+Ollama allows users to run large language models locally.
